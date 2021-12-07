@@ -1,4 +1,4 @@
-### Opaaa!, Eu sou o Augusto Lima, como vai?? 👋
+### Opaaa! Eu sou o Augusto Lima, como vai?? 👋
 
 - 📌 - Atualmente apenas codando, treinando e tocando bateria...
 - 📚 - Sou estudante de Eng. de Software pela PUCPR
