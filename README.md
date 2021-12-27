@@ -3,7 +3,8 @@
 - 📌 - Atualmente apenas codando, treinando e tocando bateria...
 - 📚 - Sou estudante de Eng. de Software pela PUCPR
 - 📕 - Me aprofundando em JS, HTML5 e CSS3
-- 🗓 - 17 y.o
+- 🗓 - 18
+ y.o
 
 <div align="center">
   <a href="https://github.com/ArgustoLima">
